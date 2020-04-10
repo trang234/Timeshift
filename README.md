@@ -1,9 +1,8 @@
 # Timeshift
 The feature support to change the system Date of your computer.
 
-
-The dll is holded on TimeshiftDLL folder.
-The API and NUnit project is holded on TimeshiftProject folder.
+- The dll is holded on TimeshiftDLL folder.
+- The API and NUnit project is holded on TimeshiftProject folder.
 
 Note:
 - Please enter the Date if you want to change as format: yyyy-MM-dd.
