@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TimeshiftProject/.vs/TimeshiftProject
+/TimeshiftProject/TimeshiftAPI/bin
+/TimeshiftProject/TimeshiftAPI/obj/Debug
+/TimeshiftProject/TimeshiftBLL/bin/Debug/netstandard2.0
+/TimeshiftProject/TimeshiftBLL/obj
+/TimeshiftProject/TimeshiftNUnit/bin/Debug/netcoreapp2.1
+/TimeshiftProject/TimeshiftNUnit/obj
